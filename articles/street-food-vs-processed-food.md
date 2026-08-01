@@ -2,6 +2,7 @@
 
 *Published on: July 31, 2026 | Author: Hana*
 
+# Content
 
 In a typical day we'd normally go out and eat, when we have money of course. Cracking open a can of goodies and sipping iced candy from plastic seem to relieve some sort of stress, aint it? 
 Oh! And we seriously can't forget about the food stalls. 
