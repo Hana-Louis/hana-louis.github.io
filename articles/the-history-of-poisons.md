@@ -31,3 +31,6 @@ Hayes, A., & Gilbert, S. (2009). Historical milestones and discoveries that shap
 
 Magowska, A. (2021). The natural history of the concept of antidote. Toxicology Reports. V. 8, Pp. 1305-1309. https://doi.org/10.1016/j.toxrep.2021.06.019.
 
+# YouTube Link
+
+[How Ancient Civilizations Mastered the Deadliest Weapon](https://youtu.be/eewpRD4tML0?si=Q6sg6RY86DjAXO1e)
