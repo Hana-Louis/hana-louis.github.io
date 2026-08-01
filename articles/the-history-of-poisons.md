@@ -1,5 +1,5 @@
 # How did we discover poison?
-* **Published: August 2, 2026 Hana**
+*Published: August 2, 2026 | Author: Hana*
 
 # Content
 
