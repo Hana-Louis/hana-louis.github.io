@@ -1,4 +1,4 @@
-# The Invisible Toxin That's In Your Ever Breathe
+# The Invisible Toxin That's In Your Every Breathe
 
 *Published: August 6, 2026 | Author: Hana*
 
