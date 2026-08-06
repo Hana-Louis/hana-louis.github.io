@@ -1,6 +1,6 @@
 # The Invisible Toxin That's In Your Every Breathe
 
-*Published: August 6, 2026 | Author: Hana*
+*Published on: August 6, 2026 | Author: Hana*
 
 # Content 
 
