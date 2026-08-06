@@ -4,7 +4,9 @@
 
 # Content 
 
-Do you ever walk into a recently painted room and immediately go? No, just me. Oh well. What we inhale has an enormous impact on our health. Many believe we only breathe the air filtered by nature. But there is more to it than that. 
+Do you ever walk into a recently painted room and immediately no brainers? No? Just me? Oh well. 
+
+What we inhale has an enormous impact on our health. Many believe we only breathe the air filtered by nature. But there is more to it than that. 
 
 For billions of years, Earth's atmosphere was a balanced mixture of natural gases. shaped slowly by the planet's biospheres on land, in water, and in the air. But today, human activities are driving a massive artificial shift. There are multiple gases and vapors floating around us right now. These mysterious gases are known as volatile organic compounds or VOCC's, and they aren't entirely new. 
 
