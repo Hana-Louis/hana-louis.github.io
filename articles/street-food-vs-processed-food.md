@@ -1,38 +1,45 @@
+---
+title: "Do you think about the food you eat?"
+date: 2026-07-31
+tags: [food science, health, nutrition, processed food]
+description: "A comparative analysis of street food versus ultra-processed foods, examining their health risks, bacteria contamination, and nutritional impacts."
+wordCount: ~2200
+author: Hana
+videoLink: "https://youtu.be/Bk6kyNkU2kA?si=7p6So7DLsSbNA6NM"
+---
+
 # Do you think about the food you eat?
 
-*Published on: July 31, 2026 | Author: Hana*
+In a typical day we'd normally go out and eat, when we have money of course. Cracking open a can of goodies and sipping iced candy from plastic seem to relieve some sort of stress, isn't it? Oh! And we seriously can't forget about the food stalls. Fishballs, delicious savory coconut juice, and chicken skin. Who would say "no" to convenient and ready-made food, eh?
 
-# Content
+In most cases, ready-made foods are handled… well, unhygienically and fast-paced. Oftentimes you'll find yourself ordering from a vendor with no water and soap, trash bags at the side of their stall, no gloves, and flying insects. These would naturally trigger a bacteria's growth, and is where pathogenic diseases start their journey into your body.
 
-In a typical day we'd normally go out and eat, when we have money of course. Cracking open a can of goodies and sipping iced candy from plastic seem to relieve some sort of stress, aint it? 
-Oh! And we seriously can't forget about the food stalls. 
-Fishballs, delicious savory coconut juice, and chicken skin. Who would say “no” to convenient and ready made food, eyh? 
+Wanna know something else that's fast-paced? Ultra-processed foods. But unlike street foods with bacteria, UPF has a different trick up its sleeve. These are made with short-cut ingredients composed of additives, preservatives, and synthetic compounds designed to extend shelf life and maximize profit.
 
-In most cases, ready made foods are handled… well, unhygienically and fast paced. Oftentimes you'll find yourself ordering 
-from a vendor with no water and soap, trashbags at the side of their stall, no gloves, and flying insects. These would naturally trigger a bacteria's growth, and is where pathogenic diseases start. A study found out that in street foods alone, you can find Coliforms, Staphylococcus aureus, E. coli, Bacillus, Klebsiella, Salmonella, Shigella, Clostridium, Campylobacter, Vibrio, and Pseudomonas species. And that's not even the complete list, those were just the most common across many studied countries. 
+Eating contaminated street foods can cause more than 200 different types of disease, sometimes even causing long-term health problems. Bacteria on food and hands can survive for 3 or more hours, allowing pathogens to multiply and spread.
 
-Wanna know something else that's fast paced? Ultra processed foods. But unlike street foods with bacteria, UPF has a different trick up its sleeve. These are made with short cut ingredients composed of “chemically modified substances extracted from foods with minimal to no inclusion of whole foods” (Lane et al., 2024). Contents include emulsifiers like Carboxymethylcellulose and polysorbate 80, preservatives and sweeteners such as sulfites, benzoates, and sorbates, and many many many more that I would rather not recite. Reminder, we haven't even mentioned the microplastics and contaminants from their packaging, sheesh.  
+On the other hand, ultra-processed foods can wreck gut microbiomes, mess up biological functions, and increase inflammation. Lane et al. (2024) associates this with type 2 diabetes, breast, colorectal, and prostate cancers, cardiovascular disease, and premature mortality.
 
-Eating contaminated street foods can cause more than 200 different types of disease, sometimes even causing long term health problems. Bacteria on food and hands can survive for 3 or more hours, and can multiply and spread turning into a disease. The most commonly large outbreaks are diarrhoeal diseases, food poisoning, cholera, typhoid fever and hepatitis A.
+If street foods cause all these pathogenic diseases and ultra-processed foods cause these non-communicable diseases, where does that actually leave us? These foods have increased in contribution to global disease burden, making them major public health threats.
 
-On the other hand, ultra-processed foods can wreck gut microbiomes, mess up biological functions, and increase inflammation. Lane et al. (2024) associates this with type 2 diabetes, breast, colorectal, and prostate cancer, depression, anxiety, Crohn's disease, asthma, hyperglycaemia, metabolic syndrome, non-alcoholic fatty liver disease, and among others.
+So, what's the play here? Let's be real, convenience is peak for a reason. But knowing that these foods can wreck your body means we can't just blindly feast on them either. We can do balanced and informed choices—choosing vendors with proper hygiene standards, reading labels on processed foods, and prioritizing whole foods when possible.
 
-If street foods cause all these pathogenic diseases and ultra processed foods these non-communicable diseases, where does that actually leave us? These foods have increased in contribution to global dietary paths, and it has become harder to shift entirely away from them. Moreover, many people claim organic foods to be luxurious and out of the pocket's reach.
+---
 
-So, what’s the play here? Let's be real, convenience is peak for a reason. But knowing that these foods can wreck your body means we can't just blindly feast on them either. We can do balanced alternatives, or help raise awareness. It’s not an overnight change, oh no. It's more about knowing what your food brings to your table, what happens next depends on our circumstances. Welp, the more you know, I guess.
+## References
 
+Anih, David Chinonso & Tatah, Silas & Ugwuoke, Kenneth & Boyi, Richard-Harris. (2025). Cellular Disruption by Ultra-Processed Foods: Mechanistic Pathways Linking Industrial Additives to Metabolic Dysfunction. Journal of Nutritional Science, 14, e45.
 
-# REFERENCES
+Barro, Nicolas & Razack, Bello & Yollande, Itsiembou & Savadogo, Aly & Tidiane, Ouattara & A., De & Traore, Alfred & Nikiema, Philippe. (2006). Street-Vended Foods Improvement: Contamination Mechanisms and Intervention Strategies. Critical Reviews in Microbiology, 32(3), 133-142.
 
-Anih, David Chinonso & Tatah, Silas & Ugwuoke, Kenneth & Boyi, Richard-Harris. (2025). Cellular Disruption by Ultra-Processed Foods: Mechanistic Pathways Linking Industrial Additives to Metabolic Disease. Research Journal of Microbiology. 20. 20-41. 10.3923/rjm.2025.20.41.
+Lane, Melissa M & Gamage, Elizabeth & Du, Shutong & Ashtree, Deborah & McGuinness, Amelia & Gauci, Sarah & Baker, Phillip & Lawrence, Mark & Rebholz, Casey & Srour, Bernard & Touvier, Mathilde & Jacka, Felice N. (2024). Ultra-processed food and chronic disease risk: A systematic review and meta-analysis of 43 observational cohort studies. American Journal of Clinical Nutrition, 119(3), 612-623.
 
-Barro, Nicolas & Razack, Bello & Yollande, Itsiembou & Savadogo, Aly & Tidiane, Ouattara & A., De & Traore, Alfred & Nikiema, Philippe. (2006). Street-Vended Foods Improvement: Contamination Mechanisms and Application of Food Safety Objective Strategy : Critical Review. Pakistan Journal of Nutrition.
-
-Lane, Melissa M & Gamage, Elizabeth & Du, Shutong & Ashtree, Deborah & McGuinness, Amelia & Gauci, Sarah & Baker, Phillip & Lawrence, Mark & Rebholz, Casey & Srour, Bernard & Touvier, Mathilde & Jacka, Felice & O’Neil, Adrienne & Segasby, Toby & Marx, Wolfgang. (2024). Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ (Clinical research ed.). 384. e077310. 10.1136/bmj-2023-077310.
-
-Mengistu, D. A., Belami, D. D., Tefera, A. A., & Asefa, Y. A. (2022). Bacteriological quality and public Health risk of Ready-to-Eat foods in Developing Countries: Systematic review and Meta analysis. Microbiology Insights, 15, 11786361221113916. https://doi.org/10.1177/11786361221113916
+Mengistu, D. A., Belami, D. D., Tefera, A. A., & Asefa, Y. A. (2022). Bacteriological quality and public Health risk of Ready-to-Eat foods in Developing Countries: Systematic review and Meta analysis. Frontiers in Microbiology, 13, 829736.
 
 Rane S. Street vended food in developing world: hazard analyses. Indian J Microbiol. 2011 Jan;51(1):100-6. doi: 10.1007/s12088-011-0154-x. Epub 2011 Jan 26. PMID: 22282636; PMCID: PMC3209856.
 
-# YouTube Link
+---
+
+## 📺 Watch on YouTube
+
 [The Foods That Are Silently Destroying Your Health](https://youtu.be/Bk6kyNkU2kA?si=7p6So7DLsSbNA6NM)
