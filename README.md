@@ -9,7 +9,7 @@ Every article and video essay is thoroughly researched and properly cited.
 ## 📚 Featured Articles
 
 ### 1. [The History of Poisons](articles/the-history-of-poisons.md)
-A fascinating exploration of poisons throughout history—their discovery, uses, and impact on human civilization. 
+A fascinating exploration of how poisons were discovered in different parts of the world, and how its usage and impact changed throughout its history.
 - **Read on GitHub**: [articles/the-history-of-poisons.md](articles/the-history-of-poisons.md)
 
 ### 2. [Air Pollution and VOC (Volatile Organic Compounds)](articles/air-polluion-and-VOC.md)
@@ -17,25 +17,13 @@ An in-depth analysis of air pollution, volatile organic compounds, and their eff
 - **Read on GitHub**: [articles/air-polluion-and-VOC.md](articles/air-polluion-and-VOC.md)
 
 ### 3. [Street Food vs Processed Food](articles/street-food-vs-processed-food.md)
-A comparative study examining the differences, benefits, and drawbacks of street food and processed food.
+An in-depth comparative study examining the differences, and drawbacks of street food and processed food to human health.
 - **Read on GitHub**: [articles/street-food-vs-processed-food.md](articles/street-food-vs-processed-food.md)
 
----
-
-## 🎬 About My Work
-
-I create content that:
-- **Educates** through rigorous research and clear writing
-- **Engages** audiences with compelling narratives
-- **Explores** diverse topics from science to history to food culture
-
-**Topics I cover:**
-- 🔬 Medicine & Biology
-- 🍽️ Food Science & Culture
-- 📚 History & Society
-- 🌍 Environmental Science
+For more works, check out the lists of [articles here](article.md)
 
 ---
+
 
 ## 🛠️ Tools & Process
 
@@ -61,11 +49,4 @@ I'd love to hear from you! Connect with me:
 
 ---
 
-## 📊 Quick Stats
-- **3** published articles
-- **Topics**: Medicine, Food Science, History, Environmental Science
-- **Last Updated**: August 8, 2026
-
----
-
-*Explore all my work in the [Complete Portfolio](PORTFOLIO.md)*
+*Last update on: August 8, 2026 - 3:22 PM (PH time)*
