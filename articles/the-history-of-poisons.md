@@ -3,7 +3,7 @@ title: "How did we discover poison?"
 date: 2026-08-02
 tags: [history, toxicology, science]
 description: "An exploration of how humans discovered poisons throughout history, from prehistoric times to modern medicine."
-wordCount: ~2800
+wordCount: ~803
 author: Hana
 videoLink: "https://youtu.be/eewpRD4tML0?si=Q6sg6RY86DjAXO1e"
 ---
