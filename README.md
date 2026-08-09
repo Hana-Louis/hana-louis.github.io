@@ -21,7 +21,7 @@ Recent experience and background:
 
 ### See My Works
 - **Video Editing on YouTube**: [Ffrouche](https://youtube.com/@ffarouchee?si=GhL-I4gwLflo9TrP)
-- **Lists of Science Articles**: [Articles](articles.md)
+- **Lists of Science Articles**: [Articles](article.md)
 
 ---
 
