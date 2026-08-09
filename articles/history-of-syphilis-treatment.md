@@ -1,6 +1,6 @@
 ---
 title: "Every Treatment For Syphilis"
-date: 2026-08-06
+date: 2026-08-09
 tags: [infection, disease, syphilis, health, health, antibiotic]
 description: "An in-depth analysis of volatile organic compounds (VOCs), their sources, health impacts, and why indoor air pollution is often overlooked."
 wordCount: ~3500
