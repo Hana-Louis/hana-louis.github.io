@@ -2,7 +2,7 @@
 title: "Every Treatment For Syphilis"
 date: 2026-08-09
 tags: [infection, disease, syphilis, health, history, antibiotic]
-description: "An in-depth analysis of volatile organic compounds (VOCs), their sources, health impacts, and why indoor air pollution is often overlooked."
+description: "Before technology and the discoevry of penicillin, scientists and doctors used to settle for anything that can eliminate the preogression of this horrifying disease, from using poisons to antibiotics, this article gives a thorough and timelined whole of the story."
 wordCount: ~968
 author: Hana
 videoLink: "https://youtu.be/FfHXmhZqtIU?si=77wrV5N3vcD5wdIy"
