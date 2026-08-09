@@ -3,7 +3,7 @@ title: "The history of medicine: The ancient means of medicine compared to how w
 date written: 2024-07-15
 date published: 2026-08-09
 tags: [history, medicine, science, health]
-description: "An in-depth analysis of volatile organic compounds (VOCs), their sources, health impacts, and why indoor air pollution is often overlooked."
+description: "Medicine goes way long back to 3.3 million years ago, before large civilizations were even made. This article moves us through the timelines in which medicine was first used and how it was progressively evolves throughout the history of humans."
 wordCount: ~936
 author: Hana
 videoLink: "N/A"
@@ -27,7 +27,7 @@ The practices and use of prehistoric medicine first began in the early years of 
 
 According to the medical information given by the Edwin Swift Papyrus in 1500 BC, the credited first doctor in all history was the man Imhotep of Egypt, having cured over 200 people with different kinds of disease and illnesses (History of Medicine). Imhotep was also considered as the first architect and engineer, and acknowledged as a philosopher according to the recorded history of his times (2655-2600 BC). 
 
-Following this, Hippocrate(450 - 380 BCE), with his alliance to philosophy and medicine,  claimed that “diseases and illnesses are merely the occurrences from natural phenomena, and can be cured” started the beginning of scientific changes in medicine. Transforming it into a superstitious practice to now a modern scientific analysis.
+Following this, Hippocrates (450 - 380 BCE), with his alliance to philosophy and medicine,  claimed that “diseases and illnesses are merely the occurrences from natural phenomena, and can be cured” started the beginning of scientific changes in medicine. Transforming it into a superstitious practice to now a modern scientific analysis.
 
 Galen(129-126 AD), then added to this unintentionally, that diagnosis can be concluded through inspection and examination of symptoms given from the human body.  
 
