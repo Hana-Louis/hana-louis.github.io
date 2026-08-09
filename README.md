@@ -19,6 +19,10 @@ Recent experience and background:
 - 📚 History
 - 🌍 Environmental Science
 
+### See My Works
+- **Video Editing on YouTube**: [Ffrouche](https://youtube.com/@ffarouchee?si=GhL-I4gwLflo9TrP)
+- **Lists of Science Articles**: [Articles](articles.md)
+
 ---
 
 ## 🛠️ Tools & Process
@@ -34,7 +38,6 @@ I use the following tools to create and refine my work:
 I'd love to hear from you! Connect with me:
 - **Email**: juganhana@gmail.com
 - **Twitter**: [@Hanahpzj](https://x.com/hanahpzj?s=11)
-- **YouTube**: [Ffrouche](https://youtube.com/@ffarouchee?si=GhL-I4gwLflo9TrP)
 
 ---
 
