@@ -14,27 +14,29 @@ Do you ever walk into a recently painted room and immediately get a headache? No
 
 What we inhale has an enormous impact on our health. Many believe we only breathe the air filtered by nature. But there is more to it than that.
 
-For billions of years, Earth's atmosphere was a balanced mixture of natural gases, shaped slowly by the planet's biospheres on land, in water, and in the air. But today, human activities are driving unprecedented changes to this delicate balance.
+For billions of years, Earth's atmosphere was a balanced mixture of natural gases, shaped slowly by the planet's biospheres on land, in water, and in the air. But today, human activities are driving a massive artificial shift. There are multiple gases floating aroun u right now. These mysterious gases are known as Volatile Organic Compounds (VOC), and they are not entirely new. 
 
-Long before humans arrived, nature ran the show using biogenic VOCs. These are described as carbon-based organic compounds that release chemical vapor at normal room temperature. They are predominantly produced by trees and plants in forests.
+Long before humans arrived, nature ran the show using biogenic VOCs. These are described as carbon-based organic compounds that release chemical vapor at normal room temperature. They are predominantly sourced from forests and vegetation, while the rest comes from animals, microbes, fungi, and wastes. All emmited as a gas into the atmosphere.
 
-While the word chemical triggers red flags, natural VOCs are famous for their therapeutic benefits. In fact, scientists call them phytoncides. From the Greek dictionary, "phyton" means plant and "cide" means to kill. These are antimicrobial compounds naturally released by plants.
+While the word "chemical" triggers red flags, natural VOCs are famous for their therapeutic benefits. In fact, scientists call them phytoncides. From the Greek dictionary, "phyton" means plant and "cide" means to kill. Studies show that breathing in these forests provides anti-tumor, anti-caner, and anti-depressive benefits. Plants don't just emit these for our benefits though, because these are highly strategic chemical weapons used as a biological self defense mechanism. 
 
-But as you know, that was just one side of the coin. While biogenic VOCs are scientifically proven to be therapeutic, they can still carry environmental risks. Now I know what you're thinking, hold on—let me explain.
+But as you know, that was just one side of the coin. While biogenic VOCs are scientifically proven to be therapeutic, they can still carry environmental risks. Now I know what you're thinking, *"But if it comes from nature, it has to be good!"*, not quite buddy. Let me remind you, we're talking about VOCs here. These are highly reactive chemical vapors, so of course they're going to cause some sort of commotion in the atmosphere. 
 
-The planet has been handling that delicate balance for millions of years. But then the final boss followed: humans. See, Earth's natural cycles operate on geological time, slow, adaptive, and measurable in millennia.
+Though, only in the right conditions, they can react to produce ground level ozone and accelerate global warming. But hey, to think that plants, the very things we often glorify to save Earth,can also inadverdently harm it, just goes to show that biogenic VOCs are simply a part of Earth's chaotic natural cycle. The way volcano eruptions do. The planet has been handling that delicate balance for millions of years. But then the final boss followed: humans. See, Earth's natural cycles operate on geological time, slow, adaptive, and measured. But human beings? Our motto has always been: *Live fast before you die!*
 
-During our early history, human impact was minimal. But then came the agricultural era and the widespread use of fire. We then jumped into the industrial revolution, introducing smoking engines, heavy machinery, and factories that belched toxic fumes into the atmosphere.
+During our early history, human impact was minimal. But then came the agricultural era and the widespread use of fire. We then jumped into the industrial revolution, introducing smoking engines, heavy machinery, and fast paced manufacturies. Fast forward to the information age, and we've added global carbon footprints and complex technical wastes to the atmosphere. 
 
-Oh, let's simplify the chaos. Anthropogenic VOCs are hydrocarbons emitted from human activities divided into main categories: mobile, stationary, and area. Mobile includes transportation and fuel combustion. Stationary sources are industrial facilities and power plants. Area sources are smaller but widespread—think gas stations, dry cleaners, and restaurants.
+Because of this, human made VOCs are much more complicated than anything found In nature. It alone originates from a dizzyig web of human sources, which forced scientists to strictly categorize them. 
 
-We already have biogenic VOCs for the earth to deal with, and then human civilization went and artificially accelerated everything, essentially adding massive expenses to mother nature's balance she's maintained for eons.
+Let's simplify the chaos. Anthropogenic VOCs are hydrocarbons emitted from human activities divided into main categories: mobile, stationary, and area. (1) Mobile includes transportation, fuel, and energy production; (2) stationary such as industrial activities, consumer solvents, cosmetics; and (3) area such as asphalt roads, agriculture, and modern infrastructure.
 
-The mixing of these natural and synthetic compounds significantly heightens our overall chemical exposures, multiplying the risks of skin and lung related illnesses. Even worse, our disruption of atmospheric chemistry has altered how these compounds interact in the air.
+We already have biogenic VOCs for the earth to deal with, and then human civilization went and artificially accelerated everything, essentially adding massive expenses to mother nature's balance sheet. But sources and chemicals are one part of the problem. The real issue is what happens next.
 
-And if you think hiding indoors is going to save you, think again. Most of what fills our houses and workplaces—from malls, paints, plastic products, waste, cosmetics, and even cooking—all of these release VOCs. We're essentially trapping ourselves in a box of chemicals.
+The mixing of these natural and synthetic compounds significantly heightens our overall chemical exposures, multiplying the risks of skin and lung related illnesses. Even worse, our disruption of natural VOC immesions has actively contributed to climate warming at twice the rate of historical temperature rises. VOC immesion is havily temerature dependent, global warming triggers a dangerous feedback loop, and higher temperature due to constant elevated VOC immesion, resulting in an utter cycle of chaos. 
 
-And that's the real danger. When we think of air pollution, our brains usually picture giant black plumes of smoke billowing out of factory smokestacks. We think of something we can clearly see and measure. But VOCs? They're invisible. Odorless in many cases. Silent killers that slip past our defenses.
+And if you think hiding indoors is going to save you, think again. Most of what fills our houses and workplaces—from malls, paints, plastic products, waste, cosmetics, and even cooking— all of these release VOCs. We're essentially trapping ourselves in a box of chemicals.
+
+And that's the real danger. When we think of air pollution, our brains usually picture giant black plumes of smoke billowing out of factory smokestacks. We think of something we can clearly see and avoid. But VOCs? They're invisible. Odorless in many cases. Silent killers that slip past our defenses.
 
 ---
 
