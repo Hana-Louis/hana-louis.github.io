@@ -6,8 +6,10 @@ description: "An in-depth analysis of volatile organic compounds (VOCs), their s
 wordCount: ~3500
 author: Hana
 videoLink: "https://youtu.be/FfHXmhZqtIU?si=77wrV5N3vcD5wdIy"
+---
 
-Every Treatment For Syphilis
+
+## Every Treatment For Syphilis
 
 Do you know about Syphilis? It's this cruel infection that causes not only gruesome pain to a person, but also the feeling of horror. Luckily, in 1928 an antibiotic came to us that ended those nightmares. A drop of this antibiotic would woo this disease bye bye. But years ago, people did not have this antibiotic. Just how on earth did they cope with this horrific disease?
 
@@ -34,6 +36,8 @@ And at last the discovered drug in 1928 was later recognized as the main treatme
 Early syphilis treatment like those of the bismuth drugs, mercury injection, malaria, and salvarsan were barely effective because of the multiple injections that were followed. The treatment must be in the body long enough, that is why the earliest treatments had to be injected usually, while oral ingestion was also an option. 
 ​So, just how on earth did they cope? The truth is, they barely did. For centuries, surviving syphilis meant choosing between a slow, disfiguring death from the disease, or a brutal, agonizing treatment that might just kill you faster than the bacteria could. It was a dark, desperate era of human experimentation—where injecting liquid mercury or catching malaria were seen as valid options rather than doing nothing. It makes you realize that we don't just live in the modern world; we live in a privileged one, all thanks to a single, accidental discovery of a mold called penicillin.
 
+---
+
 ## REFERENCES
 
 informedhealth.org. (n.d.). How is syphilis treated? | informedhealth.org. informedhealth.org. https://www.informedhealth.org/how-is-syphilis-treated.html
@@ -51,3 +55,10 @@ Syphilis. (n.d.). https://flipper.diff.org/app/items/info/4415
 Tampa, M., Sarbu, I., Matei, C., Benea, V., & Georgescu, S. R. (2014). Brief history of syphilis. Journal of medicine and life, 7(1), 4–10.
 
 Tudor ME, Al Aboud AM, Leslie SW, et al. Syphilis. [Updated 2024 Aug 17]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2026 Jan-. Available from: https://www.ncbi.nlm.nih.gov/books/NBK534780/
+
+
+---
+
+## 📺 Watch on YouTube
+
+[Syphilis Treatments: The Good, The Bad, And The Deadly](https://youtu.be/FfHXmhZqtIU?si=77wrV5N3vcD5wdIy)
