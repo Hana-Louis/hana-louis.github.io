@@ -3,7 +3,7 @@ title: "The Invisible Toxin That's in Your Every Breath"
 date: 2026-08-06
 tags: [air pollution, VOC, environmental science, health]
 description: "An in-depth analysis of volatile organic compounds (VOCs), their sources, health impacts, and why indoor air pollution is often overlooked."
-wordCount: ~3500
+wordCount: ~772
 author: Hana
 videoLink: "https://youtu.be/gE0oVpOe2Fc?si=Sp-tmKrtPi73csIs"
 ---
