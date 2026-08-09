@@ -3,7 +3,7 @@ title: "Do you think about the food you eat?"
 date: 2026-07-31
 tags: [food science, health, nutrition, processed food]
 description: "A comparative analysis of street food versus ultra-processed foods, examining their health risks, bacteria contamination, and nutritional impacts."
-wordCount: ~2200
+wordCount: ~471
 author: Hana
 videoLink: "https://youtu.be/Bk6kyNkU2kA?si=7p6So7DLsSbNA6NM"
 ---
