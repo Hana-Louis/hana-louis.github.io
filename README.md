@@ -1,4 +1,4 @@
-# Hana Jugan | Portfolio
+# Hana | Portfolio
 
 Hi! Welcome to my portfolio. I am a **writer, researcher, and content creator** focused on well-researched educational essays and video content. My work spans topics in **medicine, cellular biology, food science, history, and more**.
 
@@ -6,24 +6,20 @@ Every article and video essay is thoroughly researched and properly cited.
 
 ---
 
-## 📚 Featured Articles
+## 🎬 About My Work
 
-### 1. [The History of Poisons](articles/the-history-of-poisons.md)
-A fascinating exploration of how poisons were discovered in different parts of the world, and how its usage and impact changed throughout its history.
-- **Read on GitHub**: [articles/the-history-of-poisons.md](articles/the-history-of-poisons.md)
+Recent experience and background:
+- **Science written articles**
+- **Long and short form video editing**
+- **Author of on-going non-fiction biology and fiction novel books**
 
-### 2. [Air Pollution and VOC (Volatile Organic Compounds)](articles/air-polluion-and-VOC.md)
-An in-depth analysis of air pollution, volatile organic compounds, and their effects on air quality and human health.
-- **Read on GitHub**: [articles/air-polluion-and-VOC.md](articles/air-polluion-and-VOC.md)
-
-### 3. [Street Food vs Processed Food](articles/street-food-vs-processed-food.md)
-An in-depth comparative study examining the differences, and drawbacks of street food and processed food to human health.
-- **Read on GitHub**: [articles/street-food-vs-processed-food.md](articles/street-food-vs-processed-food.md)
-
-For more works, check out the lists of [articles here](article.md)
+**Topics I cover:**
+- 🔬 Medicine & Biology
+- 🍽️ Food Science
+- 📚 History
+- 🌍 Environmental Science
 
 ---
-
 
 ## 🛠️ Tools & Process
 
@@ -31,13 +27,6 @@ I use the following tools to create and refine my work:
 - **Writing & Research**: Google Docs, Obsidian
 - **Video Production**: Jitter, Capcut, Inshot
 - **Design & Illustration**: Ibispaint
-
----
-
-## 📺 Watch My Video Content
-
-- **YouTube**: [Ffrouche Channel](https://youtube.com/@ffarouchee?si=GhL-I4gwLflo9TrP)
-
 ---
 
 ## 💬 Get in Touch
@@ -49,4 +38,4 @@ I'd love to hear from you! Connect with me:
 
 ---
 
-*Last update on: August 8, 2026 - 3:22 PM (PH time)*
+*Last update on: August 9, 2026 - 10:21 AM (PH time)*
