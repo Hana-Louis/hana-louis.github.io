@@ -12,6 +12,7 @@ Recent experience and background:
 - **Science written articles**
 - **Long and short form video editing**
 - **Author of on-going non-fiction biology and fiction novel books**
+- **Researcher in local competitions**
 
 **Topics I cover:**
 - 🔬 Medicine & Biology
@@ -41,4 +42,4 @@ I'd love to hear from you! Connect with me:
 
 ---
 
-*Last update on: August 9, 2026 - 10:21 AM (PH time)*
+*Last update on: August 10, 2026 - 1:36 PM (PH time)*
